@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1616066423 source:c:\users\angelo\desktop\angelo\scuola\materie\tpsit\21_03_22_rubrica\main.cpp
+	<iostream>
+	<fstream>
+
